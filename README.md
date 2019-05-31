@@ -1,1 +1,1 @@
-# instagrambot
+# instabot
